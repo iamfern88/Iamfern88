@@ -18,7 +18,7 @@
 
 -Microsoft Azure (Virtual Machines, VNets, NSGs)
 
--Actrive Directory Domain Services (AD DS)
+-Active Directory Domain Services (AD DS)
 
 -DNS and basics networking (TCP/IP, ICMP, HTTP/S, SSH)
 
