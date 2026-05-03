@@ -2,7 +2,7 @@
 
 <h2>👨🏽‍💻Information Technology Projects:</h2>
 
-<h5>
+<h4>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/iamfern88/osticket-prereqs)
@@ -25,9 +25,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iamfern88/azure-network-protocols)
     
      ~Network Security Groups (NSGs) in Azure act like virtual firewalls that control inbound and outbound traffic for your virtual machines and subnets. By configuring NSG rules and monitoring traffic, you can filter specific ports and protocols while inspecting network activity to better understand and secure communication within your environment.
-</h5>
+</h4>
 
-<h5>Core Technical Skills:<h/5>
+<h4>Core Technical Skills:<h/4>
   
   ___
   
