@@ -2,11 +2,13 @@
 
 <h2>👨🏽‍💻Information Technology Projects:</h2>
 
+<h5>
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/iamfern88/osticket-prereqs)
     
      ~ osTicket is an open-source help desk system that runs on a standard web server like Apache or Nginx, using PHP and a MySQL or MariaDB database to manage tickets. To install it, you simply upload the files to your server, set up a database, adjust a few permissions, and follow the step-by-step web setup to get everything up and running.
-    
+     
   - [osTicket: Post-Installation Configuration](https://github.com/iamfern88/post-install-config)
     
      ~After installing osTicket, the post-installation configuration is where you fine-tune the system to match your organization’s needs. This includes setting up departments, configuring email settings, creating help topics, adding staff accounts, and adjusting system preferences to ensure tickets are routed and managed efficiently.
@@ -23,8 +25,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/iamfern88/azure-network-protocols)
     
      ~Network Security Groups (NSGs) in Azure act like virtual firewalls that control inbound and outbound traffic for your virtual machines and subnets. By configuring NSG rules and monitoring traffic, you can filter specific ports and protocols while inspecting network activity to better understand and secure communication within your environment.
-    
-<h2>Core Technical Skills:<h/2>
+</h5>
+
+<h5>Core Technical Skills:<h/5>
   
   ___
   
